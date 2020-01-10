@@ -1,0 +1,6 @@
+install.packages("ROCR")
+install.packages("leaps")
+install.packages("ggplot2")
+install.packages("ggpubr")
+install.packages("caret")
+install.packages("GGally")
